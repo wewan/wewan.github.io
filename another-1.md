@@ -8,7 +8,7 @@ description: This is just another page
 
 _yeah_
 <center>
-<img src='img/ww.jpg'>
+<img src='img/flower.jpg'>
 </center>
 
 [back](./)
