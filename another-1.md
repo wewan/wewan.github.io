@@ -7,6 +7,9 @@ description: This is just another page
 ## Welcome to another page
 
 _yeah_
+<center>
+<img src='img/ww.jpg'>
+</center>
 
 [back](./)
 
