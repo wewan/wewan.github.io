@@ -1,4 +1,4 @@
-## Welcome to *One Way* Pages
+## Welcome to *One Way's* Pages
 
 [another page](./another-1.html)
 
