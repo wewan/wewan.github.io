@@ -5,7 +5,7 @@ description: This is just another page
 ---
 
 ## Welcome to another page
-[*back*](./)
+[**_back_**](./)
 
 _oh_
 <center>
