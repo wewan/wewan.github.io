@@ -2,6 +2,10 @@
 
 [**_another page_**](./another-1.html)
 
+<a href="./another-1.html">
+    <img border="0" src="img/arrow.png" width=10% />
+</a>
+
 shall bye two, bye you bye, long jet ear doll, should cheat lie
 
 <center>
