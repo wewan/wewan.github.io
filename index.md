@@ -13,7 +13,10 @@ shall bye two, bye you bye, long jet ear doll, should cheat lie
 
 ### life is the shit
 
-[**_another page_**](./another-2.html)
+
+<a href="./another-2.html">
+    <img border="0" src="img/arrow.jpeg"  width="40px" height="20px"/>
+</a>
 
 <center>
  <img src='img/flower2.jpg'>
