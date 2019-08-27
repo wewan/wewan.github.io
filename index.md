@@ -1,7 +1,7 @@
 ## Welcome to *One Way's* Pages
 
 <a href="./another-1.html">
-    <img border="0" src="img/arrow.jpeg"  width="60px" height="20px"/>
+    <img border="0" src="img/arrow.jpeg"  width="60px" height="30px"/>
 </a>
 
 shall bye two, bye you bye, long jet ear doll, should cheat lie
