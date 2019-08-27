@@ -1,6 +1,6 @@
 ## Welcome to *One Way's* Pages
 
-#### [another page](./another-1.html)
+[**another page**](./another-1.html)
 
 shall bye two, bye you bye, long jet ear doll, should cheat lie
 
@@ -11,4 +11,14 @@ shall bye two, bye you bye, long jet ear doll, should cheat lie
 
 ### life is the shit
 
+[**another page**](./another-2.html)
 
+<center>
+ <img src='img/flower2.jpg'>
+</center>
+
+### change is difficult
+
+<center>
+ <img src='img/flower3.jpg'>
+</center>
